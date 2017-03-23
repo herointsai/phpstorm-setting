@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="pla" value="&lt;?=lang('$END$')?&gt;" description="php lang print" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
